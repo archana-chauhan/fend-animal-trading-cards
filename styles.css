@@ -1,0 +1,33 @@
+/* add your CSS here */
+.fact{
+    border:1px solid;
+    margin-top:10px;
+}
+
+.None{
+    text-decoration:none;
+}
+.puppy{
+    background-color: #ff9900;
+    margin:auto;
+    width:300px;
+    border:1px solid;
+    padding:10px;
+}
+.interesting_fact{
+    font-style:italic;
+}
+
+.description{
+    padding:10px;
+}
+ul{
+    padding:10px;
+    list-style-type:none;
+}
+p{
+    padding:10px;
+}
+span{
+    font-weight:bold;
+}
